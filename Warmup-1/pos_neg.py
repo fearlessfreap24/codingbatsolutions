@@ -2,7 +2,7 @@ def pos_neg(a, b, negative):
     #
     # old answer
     #
-    #if (a >-1 and b<0) or (a<0 and b>-1):
+    # if (a >-1 and b<0) or (a<0 and b>-1):
     #    if negative:
     #        return False
     #    return True
